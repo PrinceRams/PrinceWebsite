@@ -162,9 +162,9 @@ a{
         /* flex-direction: column; */
         flex-wrap: wrap-reverse;
     }
-    .home .home-info{
+    /* .home .home-info{
         margin-bottom: 15rem;
-    }
+    } */
     .home .home-info .btn-sci{
         margin-top: 4rem;
     }
