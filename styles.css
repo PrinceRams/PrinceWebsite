@@ -161,13 +161,14 @@ a{
         display: flex;
         /* flex-direction: column; */
         flex-wrap: wrap-reverse;
+        background: #fcefdf;
     }
     /* .home .home-info{
         margin-bottom: 15rem;
     } */
-    .home .home-info .btn-sci{
+    /* .home .home-info .btn-sci{
         margin-top: 1rem;
-    }
+    } */
     .home .home-info p{
         margin-top: 1rem;
     }
@@ -235,7 +236,7 @@ a{
     visibility: hidden;
     opacity: 0;
     animation: show-content 1.5s linear forwards;
-    animation-delay: 1.5s;
+    animation-delay: 1.5;
 }
 
 .home-info h1{
